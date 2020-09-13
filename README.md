@@ -10,7 +10,6 @@ _Me llamo Kalos Lazo! Tengo 16 años y soy de Perú, actualmente estoy estudiand
 
 **Me puedes encontrar en la redes como:** 
 _***Twitter***: @Kaloslmr_
-_**Youtube**: [**Dándole click aquí!**](https://www.youtube.com/watch?v=f77-_eptbFUk&t=4s)_
 
 ## Tabla de Contenidos 📝
 > Todos los recursos que se usaron en el curso!
