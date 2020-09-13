@@ -37,6 +37,14 @@ _***Twitter***: @Kaloslmr_
  21. [Lambda Example](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/20_lambdaExample.py)
  22. [Recursiva 2](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/20_recursiva2.py)
  23. [Datos Tuplas](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/21_datosTuplas.py)
+ 24. [Rangos Example](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/23_rangosExample.py)
+ 25. [Rango Impares](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/24_rangoImpares.py)
+ 26. [Listas Mutabilidad](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/25_listasMutabilidad.py)
+ 27. [Listas Clonacion](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/26_listasClonacion.py)
+ 28. [List Comprehension 2](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/27_listComprehension.py)
+ 29. [List Comprehension](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/27_listComprehension.py)
+ 30. [List Comprehension 3](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/29_listComprehension3.py)
+ 30. [DiccionarioExample](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/30_diccionarioExample.py)
 
 
 ---
