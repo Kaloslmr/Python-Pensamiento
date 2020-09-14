@@ -44,7 +44,14 @@ _***Twitter***: @Kaloslmr_
  28. [List Comprehension 2](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/27_listComprehension.py)
  29. [List Comprehension](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/27_listComprehension.py)
  30. [List Comprehension 3](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/29_listComprehension3.py)
- 30. [DiccionarioExample](https://github.com/Kaloslmr/Python-Pensamiento/blob/a758d24642ad1974facc3fd88f3fa49d078fb7f1/30_diccionarioExample.py)
+ 31. [Black Box](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/31_blackBox.py)
+ 32. [Caja Negra](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/32_cajaNegra.py)
+ 33. [Debugging](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/34_principiosTesting.txt)
+ 34. [Principios Testing](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/34_principiosTesting.txt)
+ 35. [Debugging](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/35_debugging.py)
+ 36. [Manejo Excepciones](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/36_manejoExcepciones.py)
+ 37. [Control Flujo](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/37_controlFlujo.py)
+ 38. [Afirmaciones](https://github.com/Kaloslmr/Python-Pensamiento/blob/master/38_afirmaciones.py)
 
 
 ---
